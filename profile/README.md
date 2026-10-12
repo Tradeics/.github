@@ -10,7 +10,7 @@ Tradeics brings buyers, suppliers and experts into one workspace, from the first
 
 - **Buyers** source suppliers, compare quotes, run e-auctions, approve purchase orders and track spend.
 - **Suppliers** run their B2B store, proposals, orders and e-invoicing.
-- **Experts** offer their services to both sides.
+- **Experts** offer their services to buyers.
 
 Payments run through Tradeics Pay and Smart Escrow, with the terms agreed in a smart contract. Built for companies worldwide, in multiple languages and currencies.
 
