@@ -12,8 +12,8 @@ Tradeics brings buyers, suppliers and experts into one workspace, from the first
 - **Suppliers** run their B2B store, proposals, orders and e-invoicing.
 - **Experts** offer their services to both sides.
 
-Payments run through Tradeics Pay and Smart Escrow, with the terms agreed in a smart contract. Available in English and Arabic for companies worldwide.
+Payments run through Tradeics Pay and Smart Escrow, with the terms agreed in a smart contract. Built for companies worldwide, in multiple languages and currencies.
 
 **[Start free at tradeics.com](https://tradeics.com)**
 
-[LinkedIn](https://www.linkedin.com/company/tradeics) · [X](https://x.com/TradeicsHQ) · [YouTube](https://www.youtube.com/@TradeicsHQ) · [Instagram](https://www.instagram.com/tradeics.hq) · [TikTok](https://www.tiktok.com/@tradeics) · [Facebook](https://www.facebook.com/Tradeics)
+[LinkedIn](https://www.linkedin.com/company/tradeics) · [X](https://x.com/TradeicsHQ) · [YouTube](https://www.youtube.com/@TradeicsHQ) · [Instagram](https://www.instagram.com/tradeics.hq) · [TikTok](https://www.tiktok.com/@tradeics) · [Snapchat](https://www.snapchat.com/add/tradeics) · [Facebook](https://www.facebook.com/Tradeics) · [Pinterest](https://www.pinterest.com/TradeicsHQ) · [Telegram](https://t.me/tradeics_bot) · [WhatsApp](https://wa.me/966550145133)
