@@ -1,0 +1,2 @@
+# .github
+Tradeics organisation profile
